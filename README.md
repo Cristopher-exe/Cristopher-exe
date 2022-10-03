@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Cristopher</h1>
-<h4 align="center">Ingeniero en Sistemas con Especialidad en Desarrollo Web</h4>
+<h4 align="center">Ingeniero en Sistemas Computacionales con Especialidad en Desarrollo Web</h4>
 </div>
 
 ### 🛠 &nbsp;Skills
