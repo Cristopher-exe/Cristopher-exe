@@ -5,7 +5,6 @@
 </div>
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Cristopher</h1>
-<h4 align="center">Ingeniero en Sistemas Computacionales con Especialidad en Desarrollo Web</h4>
 </div>
 
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  &nbsp;Skills
